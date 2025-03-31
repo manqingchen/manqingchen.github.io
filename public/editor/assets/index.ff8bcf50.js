@@ -1,0 +1,1 @@
+import{a as s,j as m}from"./index.b13d347f.js";import{C as n}from"./App.c0b721e3.js";import"./debounce.609f38a4.js";import"./ResizeObserver.1403e5c6.js";function p(){const{state:t}=s(),{templateId:o,contentId:a,imgUrl:e,size:r}=t.location.search;return m(n,{style:{color:"#f5f8fa"},className:"bp3-dark",templateId:o,contentId:a,imgUrl:e,size:r})}export{p as default};
