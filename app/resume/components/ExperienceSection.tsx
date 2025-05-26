@@ -11,7 +11,7 @@ export default function ExperienceSection() {
           <div className="mb-1 flex flex-wrap items-center gap-2">
             <h3 className="text-xl font-bold">微微科技</h3>
             <span className="text-sm px-2 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full">
-              2023.07 - 至今
+              2023.07 - 2025.04
             </span>
           </div>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-2">高级前端开发工程师</p>
