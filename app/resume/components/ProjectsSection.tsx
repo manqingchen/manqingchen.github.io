@@ -26,14 +26,14 @@ const projects: Project[] = [
       demo: 'https://www.rhomarkets.xyz/',
     },
   },
-  {
-    title: '乐园岛',
-    description: '主要负责项目的h5活动页以及后台开发',
-    tags: ['amis', 'react', 'vue', 'midway', 'typeorm', 'mysql'],
-    links: {
-      demo: 'https://apps.apple.com/cn/app/fewmiles-%E4%B9%90%E5%9B%AD%E5%B2%9B/id6449445327',
-    },
-  },
+  // {
+  //   title: '乐园岛',
+  //   description: '主要负责项目的h5活动页以及后台开发',
+  //   tags: ['amis', 'react', 'vue', 'midway', 'typeorm', 'mysql'],
+  //   links: {
+  //     demo: 'https://apps.apple.com/cn/app/fewmiles-%E4%B9%90%E5%9B%AD%E5%B2%9B/id6449445327',
+  //   },
+  // },
   // {
   //   title: '在线编辑器',
   //   description: '支持图文混排, 简易的在线图文编辑器',
