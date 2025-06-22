@@ -15,13 +15,13 @@ export default function SkillsSection() {
   ];
 
   const web3Skills = {
-    ethereum: ['web3.js', 'ethers.js', 'wagmi'],
-    solana: [
-      '@solana/web3.js',
-      '@solana/wallet-adapter-base',
-      '@solana/wallet-adapter-react',
-      '@solana/wallet-adapter-react-ui'
-    ]
+    // ethereum: ['web3.js', 'ethers.js', 'wagmi'],
+    // solana: [
+    //   '@solana/web3.js',
+    //   '@solana/wallet-adapter-base',
+    //   '@solana/wallet-adapter-react',
+    //   '@solana/wallet-adapter-react-ui'
+    // ]
   };
 
   return (
@@ -42,7 +42,7 @@ export default function SkillsSection() {
         </div>
 
         {/* Web3 技能 */}
-        <div className="flex flex-wrap gap-1.5">
+        {/* <div className="flex flex-wrap gap-1.5">
           {Object.entries(web3Skills).map(([, packages]) =>
             packages.map((pkg) => (
               <div 
@@ -53,7 +53,7 @@ export default function SkillsSection() {
               </div>
             ))
           )}
-        </div>
+        </div> */}
       </div>
     </section>
   );
